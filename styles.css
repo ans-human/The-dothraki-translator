@@ -66,5 +66,5 @@ body {
     bottom: 0;
     background-color: var(--primary-color);
     color: var(--font-color);
-    margin-top: 1rem;
+    margin: 1rem;
 }
